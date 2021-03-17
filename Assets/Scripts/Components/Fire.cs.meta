@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f96a9d794a133b348baeaacef953376c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePoints: {instanceID: 0}
+  - shellPref: {fileID: 3216675544569341167, guid: 32e16229e1c244c4c8b647f19760b9a6, type: 3}
+  - fireSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,726 @@
+fileFormatVersion: 2
+guid: 935d75f29910e204b8ec27f35e12d162
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6746373521086395297
+    second: S_Square
+  - first:
+      213: 1770025926251669329
+    second: S_Circle
+  - first:
+      213: -2330809451336981215
+    second: S_Triangle
+  - first:
+      213: -6045832173367697963
+    second: S_Rectangle
+  - first:
+      213: -8748426274852571257
+    second: S_Scalene
+  - first:
+      213: 1943770102226820363
+    second: BasicGeometricShapes_12
+  - first:
+      213: -4602638109575423307
+    second: S_Pentagon
+  - first:
+      213: 1199733513940465083
+    second: S_Right
+  - first:
+      213: -1591461138630188694
+    second: S_Trapeze
+  - first:
+      213: 8007474029278409163
+    second: S_Kite
+  - first:
+      213: 3760800555333917761
+    second: S_Polygon
+  - first:
+      213: -6115786708571881893
+    second: S_Parallelogram
+  - first:
+      213: -6006889609166753144
+    second: S_Ellipse
+  - first:
+      213: 8576515120479604433
+    second: S_Trefoil
+  - first:
+      213: -6492815517957272954
+    second: S_Star
+  - first:
+      213: 5410525714906776070
+    second: S_Semicircle
+  - first:
+      213: 1477571665976101247
+    second: S_Hexagon
+  - first:
+      213: 4848034446796477292
+    second: S_Crescent
+  - first:
+      213: -7892847311546084277
+    second: S_Octagon
+  - first:
+      213: 6626331655266481633
+    second: S_Cross
+  - first:
+      213: -5158628346538300048
+    second: S_Ring
+  - first:
+      213: -9079543235525934126
+    second: BasicGeometricShapes_154
+  - first:
+      213: -6155768303169507068
+    second: S_Pic
+  - first:
+      213: -837767343358127015
+    second: S_Heart
+  - first:
+      213: -7310881648602302969
+    second: S_Arrow
+  - first:
+      213: 4754892050681253999
+    second: S_Quatrefoil
+  - first:
+      213: -3264467107574403124
+    second: S_Rhombus
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: S_Square
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 862
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c4b81c6011062a0800000000000000
+      internalID: -6746373521086395297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Circle
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 860
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1576671b335609810800000000000000
+      internalID: 1770025926251669329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Triangle
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 865
+        width: 135
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125afe5372d47afd0800000000000000
+      internalID: -2330809451336981215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Rectangle
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 880
+        width: 148
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd5ac6aba3e81ca0800000000000000
+      internalID: -6045832173367697963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Scalene
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 869
+        width: 144
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787f7b777a8579680800000000000000
+      internalID: -8748426274852571257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Pentagon
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 661
+        width: 136
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bad41176052020c0800000000000000
+      internalID: -4602638109575423307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Right
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 665
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57d83464f46a010800000000000000
+      internalID: 1199733513940465083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Trapeze
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 662
+        width: 158
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61eb1eb68ef9e9e0800000000000000
+      internalID: -1591461138630188694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Kite
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 650
+        width: 119
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc13e474433402f60800000000000000
+      internalID: 8007474029278409163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Polygon
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 656
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c15c3fd2c013430800000000000000
+      internalID: 3760800555333917761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Parallelogram
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 466
+        width: 169
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e7481346c502ba0800000000000000
+      internalID: -6115786708571881893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Ellipse
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 447
+        width: 94
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88271a0f9bd33aca0800000000000000
+      internalID: -6006889609166753144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Trefoil
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 450
+        width: 135
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de04fecf07e50770800000000000000
+      internalID: 8576515120479604433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Star
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 440
+        width: 152
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a4304dfa2e4e5a0800000000000000
+      internalID: -6492815517957272954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Semicircle
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 459
+        width: 157
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6028225b87c061b40800000000000000
+      internalID: 5410525714906776070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Hexagon
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 237
+        width: 126
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7900b80a93618410800000000000000
+      internalID: 1477571665976101247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Crescent
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 256
+        width: 140
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c635924b4ada74340800000000000000
+      internalID: 4848034446796477292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Octagon
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 242
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4416e03039f67290800000000000000
+      internalID: -7892847311546084277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Cross
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 240
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5b51c588575fb50800000000000000
+      internalID: 6626331655266481633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Ring
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 242
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07de254b9ded868b0800000000000000
+      internalID: -5158628346538300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Pic
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 43
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f8f9c751529aa0800000000000000
+      internalID: -6155768303169507068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Heart
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 45
+        width: 121
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95457b63a07af54f0800000000000000
+      internalID: -837767343358127015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Arrow
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 47
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706332410e78a8a90800000000000000
+      internalID: -7310881648602302969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Quatrefoil
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 41
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f605f2aa025ccf140800000000000000
+      internalID: 4754892050681253999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Rhombus
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 40
+        width: 125
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfa418267842b2d0800000000000000
+      internalID: -3264467107574403124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
